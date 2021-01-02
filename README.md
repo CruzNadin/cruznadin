@@ -1,6 +1,6 @@
 ## Hi there
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@thekadir.com)](mailto:contact@thekadir.com)
-[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/weltonfelix)](https://dev.to/weltonfelix)
+[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/cruznadin)](https://dev.to/cruznadin)
 
 
 Hi, I'm Kadir, an entrepreneurial and passionate Computer engineer student.
