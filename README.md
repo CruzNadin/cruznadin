@@ -9,7 +9,6 @@ Hi, I'm Kadir, an entrepreneurial and passionate Computer engineer student.
 - :pushpin: Interests: Mobil, Web.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=CruzNadin)
-[![tulparyazilim/react-native-typescript - GitHub](https://gh-card.dev/repos/tulparyazilim/react-native-typescript.svg)](https://github.com/tulparyazilim/react-native-typescript)
 
 ## :computer: 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
