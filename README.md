@@ -9,6 +9,8 @@ Hi, I'm Kadir, an entrepreneurial and passionate Computer engineer student.
 - :pushpin: Interests: Mobil, Web.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=CruzNadin)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CruzNadin&theme=dark&show_icons=true)
+
 
 ## :computer: 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
