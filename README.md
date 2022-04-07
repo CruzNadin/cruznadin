@@ -1,4 +1,5 @@
 ## Hi there
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Kadir;)](https://git.io/typing-svg)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@thekadir.com)](mailto:contact@thekadir.com)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/cruznadin)](https://dev.to/cruznadin)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cruznadin.cruznadin)
