@@ -3,9 +3,9 @@
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/cruznadin)](https://dev.to/cruznadin) 
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Kadir;Welcome+to+my+github+profile.)](https://git.io/typing-svg)
-
+         
 Hi, I'm Kadir, an entrepreneurial and passionate Computer engineer student.
-
+            
 - :books: I’m currently learning Node.js, Typescript, Php, .Net Core, React and React Native, Vue.
 - :pushpin: Interests: Mobil, Web.
 
