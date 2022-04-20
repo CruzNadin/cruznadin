@@ -98,7 +98,7 @@ Hi, I'm Kadir, an entrepreneurial and passionate Computer engineer student.
         <span>Redis</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/redis.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="25%" align="center">        
         <span>RabbitMQ</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/rabbitmq.svg">
       </td> 
