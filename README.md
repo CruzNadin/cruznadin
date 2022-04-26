@@ -1,6 +1,8 @@
 ## Hi there
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@thekadir.com)](mailto:contact@thekadir.com)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/cruznadin)](https://dev.to/cruznadin)
+<a href="linkedin.com/in/kadir-barcin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<img src="https://komarev.com/ghpvc/?username=CruzNadin&color=brightgreen" alt="watching_count" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Kadir;Welcome+to+my+github+profile.)](https://git.io/typing-svg)
          
@@ -12,6 +14,8 @@ Hi, I'm Kadir, an entrepreneurial and passionate Computer engineer student.
 ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
 ![snake gif](https://raw.githubusercontent.com/CruzNadin/cruznadin/main/github-contribution-grid-snake.gif)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=CruzNadin)](https://github.com/madushadhanushka/github-readme)
 
 ## :computer: 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
