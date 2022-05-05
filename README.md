@@ -18,7 +18,7 @@ Hi, I'm Kadir, an entrepreneurial and passionate Computer engineer student.
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
-
+ 
 <p>
      <a href="https://github.com/search?q=user%3ACruzNadin+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ACruzNadin+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
