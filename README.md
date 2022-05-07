@@ -1,4 +1,4 @@
-## Hi there.   
+## Hi there.  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@thekadir.com)](mailto:contact@thekadir.com)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/cruznadin)](https://dev.to/cruznadin)
 <a href="https://linkedin.com/in/kadir-barcin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
