@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=CruzNadin&color=brightgreen" alt="watching_count" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Kadir;Welcome+to+my+github+profile.)](https://git.io/typing-svg)
-  
+ 
 Hi, I'm Kadir, an entrepreneurial and passionate Computer engineer student.
          
 - :books: I’m currently learning Node.js, Typescript, Php, .Net Core, React and React Native, Vue.
