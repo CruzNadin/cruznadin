@@ -12,7 +12,7 @@ Hi, I'm Kadir, an entrepreneurial and passionate Computer engineer student.
 - :pushpin: Interests: Mobil, Web.
 
 ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-  
+
 ![snake gif](https://raw.githubusercontent.com/CruzNadin/cruznadin/main/github-contribution-grid-snake.gif)
 
 ## 🛠️ My favorite tools
