@@ -8,7 +8,7 @@
 
 Hi, I'm Kadir, an entrepreneurial and passionate Computer engineer student.
 
-- :books: I'm developing projects using technologies such as Node.js, TypeScript, PHP, .Net Core, React, React Native, and Vue.
+- :books: I'm developing projects using technologies such as Node.js, TypeScript, .Net Core, React, React Native, and Vue.
 - :pushpin: Interests: Mobil, Web, Linux.
 
 ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
