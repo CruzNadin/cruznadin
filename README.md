@@ -33,8 +33,8 @@ Hi, I'm Kadir, an entrepreneurial and passionate Computer engineer student.
 
 <p align="center">
   <picture>
-    <source srcset="https://kadirbarc.in/imza-dark.png" media="(prefers-color-scheme: light)">
-    <source srcset="https://kadirbarc.in/imza-light.png" media="(prefers-color-scheme: dark)">
-    <img src="https://kadirbarc.in/imza-light.png" width="100" height="60" style="max-width: 100%; display: block; margin: 0 auto;">
+    <source srcset="https://kadirbarcin.net/imza-dark.png" media="(prefers-color-scheme: light)">
+    <source srcset="https://kadirbarcin.net/imza-light.png" media="(prefers-color-scheme: dark)">
+    <img src="https://kadirbarcin.net/imza-light.png" width="150" height="50" style="max-width: 100%; display: block; margin: 0 auto;">
   </picture>
 </p>
