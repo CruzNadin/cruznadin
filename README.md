@@ -31,8 +31,10 @@ Hi, I'm Kadir, an entrepreneurial and passionate Computer engineer student.
 
 ⭐️ From [Kadir Barcın](https://github.com/CruzNadin)
 
-
 <p align="center">
-  <img src="https://kadirbarc.in/imza-dark.png#gh-light-mode-only" width="100" height="60">
-  <img src="https://kadirbarc.in/imza-light.png#gh-dark-mode-only" width="100" height="60">
+  <picture>
+    <source srcset="https://kadirbarc.in/imza-dark.png" media="(prefers-color-scheme: light)">
+    <source srcset="https://kadirbarc.in/imza-light.png" media="(prefers-color-scheme: dark)">
+    <img src="https://kadirbarc.in/imza-light.png" width="100" height="60" style="max-width: 100%; display: block; margin: 0 auto;">
+  </picture>
 </p>
