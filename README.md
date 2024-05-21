@@ -30,3 +30,8 @@ Hi, I'm Kadir, an entrepreneurial and passionate Computer engineer student.
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,linux,atom,codepen,postman,xd,figma,stackoverflow)](https://github.com/CruzNadin)
 
 ⭐️ From [Kadir Barcın](https://github.com/CruzNadin)
+
+![Light Mode](https://kadirbarc.in/imza-dark.png#gh-light-mode-only)
+![Dark Mode](https://kadirbarc.in/imza-light.png#gh-dark-mode-only)
+
+
