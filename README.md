@@ -31,7 +31,8 @@ Hi, I'm Kadir, an entrepreneurial and passionate Computer engineer student.
 
 ⭐️ From [Kadir Barcın](https://github.com/CruzNadin)
 
-![Light Mode](https://kadirbarc.in/imza-dark.png#gh-light-mode-only)
-![Dark Mode](https://kadirbarc.in/imza-light.png#gh-dark-mode-only)
 
-
+<p align="center">
+  <img src="https://kadirbarc.in/imza-dark.png#gh-light-mode-only" width="100" height="60">
+  <img src="https://kadirbarc.in/imza-light.png#gh-dark-mode-only" width="100" height="60">
+</p>
